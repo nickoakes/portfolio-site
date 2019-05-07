@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 var data = require('./data.json');
 var projects = data.projects;
-const port = 3000;
+const port = process.env.PORT;
 
 app.set('view engine', 'pug');
 
