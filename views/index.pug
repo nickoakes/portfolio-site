@@ -1,0 +1,20 @@
+extends layout.pug
+
+block content 
+  article.grid-container.portfolio-intro
+    div
+
+      h1 Portfolio
+
+      p.lead.text-light
+        | This portfolio site showcases some of the projects I have coded to date; comprising a mixture of applications built during the course of my Team Treehouse Full Stack JavaScript Techdegree, and also some that I have built independently.
+        | The portfolio site itself was built using Pug templating and Express routing, and therefore also serves to evidence my knowledge of these technologies.
+  article.grid-container.portfolio-index
+    
+    .grid-x.grid-margin-x.small-up-2.medium-up-2.large-up-3
+
+      each project in projects
+        .cell
+          a(href= '/project/' + project.id)
+            img.thumbnail(src=project.image_urls[0])
+            h5= project.project_name

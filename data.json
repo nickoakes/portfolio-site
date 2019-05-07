@@ -1,0 +1,67 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name" : "Random Quote Generator",
+            "description" : "A simple JavaScript program that generates a random quote on a button click, or after a short time delay.",
+            "technologies" : ["JavaScript", "HTML5", "CSS3"],
+            "live_link" : "https://nickoakes.github.io/javascript-random-quote-generator/",
+            "github_link" : "https://github.com/nickoakes/javascript-random-quote-generator",
+            "image_urls" : ["../images/project-1-1.png", "../images/project-1-2.png", "../images/project-1-3.png", "../images/project-1-4.png"]
+        },
+        {
+            "id" : 1,
+            "project_name" : "List Pagination and Filtering App.",
+            "description" : "An app to paginate a list of 54 student records such that 10 are displayed per page, and pagination links are appended dynamically to the bottom of the page. Also includes a facility to search for a specific record, using the 'keyup' method to update search results in real time.",
+            "technologies": ["JavaScript", "HTML5", "CSS3"],
+            "live_link" : "https://nickoakes.github.io/javascript-list-pagination-and-filtering-app/",
+            "github_link" : "https://github.com/nickoakes/javascript-list-pagination-and-filtering-app",
+            "image_urls" : ["../images/project-2-1.png", "../images/project-2-2.png", "../images/project-2-3.png", "../images/project-2-4.png"]
+        },
+        {
+            "id" : 2,
+            "project_name" : "Interactive Form",
+            "description" : "An interactive form for retrieving and validating information entered by users, built using vanilla JS, jQuery and regular expressions.",
+            "technologies": ["JavaScript", "HTML5", "CSS3", "jQuery", "Regular Expressions"],
+            "live_link" : "https://nickoakes.github.io/interactive-form/",
+            "github_link" : "https://github.com/nickoakes/interactive-form",
+            "image_urls" : ["../images/project-3-1.png", "../images/project-3-2.png", "../images/project-3-3.png", "../images/project-3-4.png"]
+        },
+        {
+            "id" : 3,
+            "project_name" : "Word Guessing Game",
+            "description" : "A 'Hangman'-style game in which the player has to guess the letters in a phrase, for which placeholders are displayed on-screen. Letters can be entered both by clicking the on-screen keyboard, and by hitting keys on the user's real keyboard. Incorrect letters become orange when selected, while correct ones become dark blue. The h2 element at the top of the page animates to indicate whether the letter chosen is correct or not. 'Game over' occurs either when the player correctly guesses all letters in the phrase, or when they have made five incorrect guesses and thereby lost all of their lives - represented by the heart shapes at the bottom of the screen. On 'Game over', an overlay is displayed to inform the user whether they have won or lost, and give them the option to start a new game.",
+            "technologies": ["JavaScript", "HTML5", "CSS3", "Object-Oriented Programming"],
+            "live_link" : "https://nickoakes.github.io/word-guessing-game/",
+            "github_link" : "https://github.com/nickoakes/word-guessing-game",
+            "image_urls" : ["../images/project-4-1.png", "../images/project-4-2.png", "../images/project-4-3.png", "../images/project-4-4.png"]
+        },
+        {
+            "id" : 4,
+            "project_name" : "Public API Request",
+            "description" : "Make a public API request to retrieve data on 12 employes, before formatting and displaying employee information. On click, a modal window opens for the selected employee displaying further information. A search bar filters employees by name. Box shadow added to cards.",
+            "technologies": ["JavaScript", "HTML5", "CSS3", "jQuery", "API Request"],
+            "live_link" : "https://nickoakes.github.io/public-api-request/",
+            "github_link" : "https://github.com/nickoakes/public-api-request",
+            "image_urls" : ["../images/project-5-1.png", "../images/project-5-2.png", "../images/project-5-3.png", "../images/project-5-4.png"]
+        },
+        {
+            "id" : 5,
+            "project_name" : "Snooker Score Calculator",
+            "description" : "A single-page snooker score calculator. Initial prompts capture the two players' names, which are then displayed on the page above their scores. Scores are kept by activating a break for the current player, before clicking the balls they pot in order. The on-screen table updates to reflect the state of the real table as play progresses. Additional buttons allow for the recording of fouls, the table to be re-racked, and a new game/ frame to be initiated.",
+            "technologies": ["JavaScript", "HTML5", "CSS3", "jQuery"],
+            "live_link" : "https://nickoakes.github.io/snooker-score-calculator/",
+            "github_link" : "https://github.com/nickoakes/snooker-score-calculator",
+            "image_urls" : ["../images/project-6-1.png", "../images/project-6-2.png", "../images/project-6-3.png", "../images/project-6-4.png"]
+        },
+        {
+            "id" : 6,
+            "project_name" : "Darts Score Calculator",
+            "description" : "A single-page darts score calculator. Initial prompts capture the players' names, which are then displayed on the page above their scores and on the relevant buttons. Scores are kept by first activating a throw for a player, and then clicking on the board to record the darts thrown. Hovering over the treble twenty will cause an image of Phil Taylor to display in place of the Winmau logo, while hovering over the bull will cause an image of 'Bully' from the TV programme 'Bullseye' to appear. If a player's score drops below the maximum 3-dart checkout of 170, a link to a checkout chart will appear to assist them. Once a player is on a double (i.e. their score is an even number less than or equal to 50), their score is shown as the double they require in order to checkout, rather than just as a plain number.",
+            "technologies": ["JavaScript", "HTML5", "CSS3", "jQuery"],
+            "live_link" : "https://nickoakes.github.io/darts-score-calculator/",
+            "github_link" : "https://github.com/nickoakes/darts-score-calculator",
+            "image_urls" : ["../images/project-7-1.png", "../images/project-7-2.png", "../images/project-7-3.png", "../images/project-7-4.png"]
+        }
+    ] 
+}
