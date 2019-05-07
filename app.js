@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 var data = require('./data.json');
 var projects = data.projects;
-const port = process.env.PORT;
+const port = server.listen(process.env.PORT || 3000);
 
 app.set('view engine', 'pug');
 
@@ -42,4 +42,4 @@ app.use((err, req, res, next) => {
     res.render('error');
 });
 
-app.listen(process.env.PORT || 3000, () => console.log(`App is listening on port ${port}.`));
+app.listen(port, () => console.log(`App is listening on port ${port}.`));
