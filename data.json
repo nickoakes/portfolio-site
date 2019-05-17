@@ -71,6 +71,15 @@
             "live_link" : "https://afternoon-forest-82335.herokuapp.com/",
             "github_link" : "https://github.com/nickoakes/react-gallery-app",
             "image_urls" : ["../images/project-8-1.png", "../images/project-8-2.png", "../images/project-8-3.png", "../images/project-8-4.png"]
+        },
+        {
+            "id" : 8,
+            "project_name" : "Guess the Rickyism",
+            "description" : "A hangman-style word-guessing game involving the malapropisms and mispronunciations of the Trailer Park Boys character Ricky. A 'Rickyism' is displayed on-screen with the letters hidden, and the player must select letters using their mouse and/ or keyboard to reveal them. 'Game Over' occurs when a player has correctly guessed all of the letters in the phrase, or when they have made five incorrect guesses and thereby lost all of their lives (represented by the bottle icons at the bottom of the screen).",
+            "technologies": ["JavaScript", "HTML5", "CSS3", "Object-Oriented Programming"],
+            "live_link" : "https://nickoakes.github.io/guess-the-rickyism/",
+            "github_link" : "https://github.com/nickoakes/guess-the-rickyism",
+            "image_urls" : ["../images/project-9-1.png", "../images/project-9-2.png", "../images/project-9-3.png", "../images/project-9-4.png"]
         }
     ] 
 }
