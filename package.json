@@ -13,6 +13,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app"
   },
-   "author": "Nicholas Oakes",
+  "author": "Nicholas Oakes",
   "license": "ISC"
 }
