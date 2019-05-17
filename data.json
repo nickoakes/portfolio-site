@@ -62,7 +62,7 @@
             "live_link" : "https://nickoakes.github.io/darts-score-calculator/",
             "github_link" : "https://github.com/nickoakes/darts-score-calculator",
             "image_urls" : ["../images/project-7-1.png", "../images/project-7-2.png", "../images/project-7-3.png", "../images/project-7-4.png"]
-        }
+        },
         {
             "id" : 7,
             "project_name" : "React Gallery App.",

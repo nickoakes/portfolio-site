@@ -15,7 +15,7 @@ development server port
 (process.env.PORT is to enable Heroku to set its own port, as it will not function with a hard-coded port)
 */
 
-const port = server.listen(process.env.PORT || 3000);
+const port = process.env.PORT || 3000;
 
 //set view engine to pug
 

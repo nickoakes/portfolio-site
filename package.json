@@ -5,8 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "express": "^4.16.4",
-    "pug": "^2.0.3",
-    "heroku": "7.24.1"
+    "pug": "^2.0.3"
   },
   "devDependencies": {},
   "scripts": {
