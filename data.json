@@ -63,5 +63,14 @@
             "github_link" : "https://github.com/nickoakes/darts-score-calculator",
             "image_urls" : ["../images/project-7-1.png", "../images/project-7-2.png", "../images/project-7-3.png", "../images/project-7-4.png"]
         }
+        {
+            "id" : 7,
+            "project_name" : "React Gallery App.",
+            "description" : "A photo gallery app. built using React. Retrieves data using Axios via a Flickr API. Three navigation links allow the user to view images in particular topic areas, and a search function also allows them to search for images of any category. A 404 error page is displayed when the URL cannot be found, and conditional rendering is used to display a loading message while data is being fetched.",
+            "technologies": ["JavaScript", "HTML5", "CSS3", "React", "Axios"],
+            "live_link" : "https://afternoon-forest-82335.herokuapp.com/",
+            "github_link" : "https://github.com/nickoakes/react-gallery-app",
+            "image_urls" : ["../images/project-8-1.png", "../images/project-8-2.png", "../images/project-8-3.png", "../images/project-8-4.png"]
+        }
     ] 
 }
