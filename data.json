@@ -80,6 +80,15 @@
             "live_link" : "https://nickoakes.github.io/guess-the-rickyism/",
             "github_link" : "https://github.com/nickoakes/guess-the-rickyism",
             "image_urls" : ["../images/project-9-1.png", "../images/project-9-2.png", "../images/project-9-3.png", "../images/project-9-4.png"]
+        },
+        {
+            "id" : 9,
+            "project_name" : "Card Slider Portfolio",
+            "description" : "A card slider that showcases my portfolio of projects. JSON data is fetched from a mock server on my-json-server.typicode.com which does not permit modification using post/ put requests. As a result, the 'like' function (which works locally) does not work in this example version.",
+            "technologies": ["JavaScript", "HTML5", "CSS3", "React", "Axios", "Yarn"],
+            "live_link" : "https://stark-chamber-55238.herokuapp.com/",
+            "github_link" : "https://github.com/nickoakes/card-slider",
+            "image_urls" : ["../images/project-10-1.png", "../images/project-10-2.png", "../images/project-10-3.png"]
         }
     ] 
 }
