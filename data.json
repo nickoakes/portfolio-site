@@ -89,6 +89,14 @@
             "live_link" : "https://stark-chamber-55238.herokuapp.com/",
             "github_link" : "https://github.com/nickoakes/card-slider",
             "image_urls" : ["../images/project-10-1.png", "../images/project-10-2.png", "../images/project-10-3.png"]
+        },
+        {
+            "id" : 10,
+            "project_name" : "SQL Library Manager",
+            "description" : "An app. built using Express, Pug and Sequelize which enables users to create, read, update and delete book entries in a library database.",
+            "technologies": ["JavaScript", "HTML5", "CSS3", "Express", "Pug", "Sequelize"],
+            "github_link" : "https://github.com/nickoakes/sql-library-manager",
+            "image_urls" : ["../images/project-11-1.png", "../images/project-11-2.png", "../images/project-11-3.png", "../images/project-11-4.png"]
         }
     ] 
 }
