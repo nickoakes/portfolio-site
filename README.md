@@ -7,5 +7,3 @@ Fonts, font colors and background colors changed.
 Package.JSON modified so that 'npm start' launches the app.
 
 Error handling middleware used to render an error.pug template when the user attempts to navigate to a non-existent route.
-
-Written to meet 'Exceeds Expectations' standard.
