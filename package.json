@@ -4,7 +4,7 @@
   "description": "A portfolio site to exhibit my coding projects.",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "pug": "^2.0.3"
   },
   "devDependencies": {},
